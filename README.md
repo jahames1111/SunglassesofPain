@@ -26,4 +26,4 @@ INSTRUCTIONS FOR CODE SETUP!!!! IMPORTANT!!! FOLLOW THESE!!!!!!!!!!
 - Click Sketch -> Include Library -> Add .zip library -> Select the zip from Downloads\SunglassesofPain-main\SunglassesofPain-main
    <img width="411" height="338" alt="image" src="https://github.com/user-attachments/assets/8c7af526-908d-48ef-ba49-1953638fa6b2" />
 - Wait for it to process
-23. Return to Instructables
+
